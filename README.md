@@ -1,16 +1,18 @@
-### Hi there 👋
+### Data scientist | Data analyst
 
-<!--
-**maria-okoledova394/maria-okoledova394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working with computer vision at a Poker startup. With 1.5 years as a data scientist, I’ve completed 20 projects. Proficient in participating in code reviews.
 
-Here are some ideas to get you started:
+### Key Skills:
+• practical experience in image recognition, object detection, natural language processing, classification, regression
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• experience in data preparation, data analysis and visualization, building basic models, neural networks, ensembles, transformers, piplines
+
+• technical education, studying and internship in IT company with high requirements for writing code and passing a code review
+
+• good analytical, communication and teamwork skills
+
+### Technologies:
+`OpenCV` `PyTorch` `Keras` `BERT` `CatBoost` `LightGBM` `scikit-learn` `statsmodels` `PySpark` `SQLAlchemy` `SciPy` `pandas`
+`Matplotlib` `seaborn` `NumPy` `PostgreSQL` `MongoDB`
+
+I'm open to job opportunities.
