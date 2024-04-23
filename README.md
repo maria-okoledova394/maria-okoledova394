@@ -12,7 +12,7 @@ I'm currently working with computer vision at a Poker startup. With 1.5 years as
 • good analytical, communication and teamwork skills
 
 ### Technologies:
-`OpenCV` `PyTorch` `Keras` `BERT` `CatBoost` `LightGBM` `scikit-learn` `statsmodels` `PySpark` `SQLAlchemy` `SciPy` `pandas`
+`cv2` `PyTorch` `Keras` `BERT` `CatBoost` `LightGBM` `scikit-learn` `statsmodels` `PySpark` `SQLAlchemy` `SciPy` `pandas`
 `Matplotlib` `seaborn` `NumPy` `PostgreSQL` `MongoDB`
 
 I'm open to job opportunities.
